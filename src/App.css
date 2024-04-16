@@ -1,0 +1,116 @@
+.Footer {
+    padding: 2rem 0;
+    margin-top: 15rem;
+  }
+  
+  .ft-1 h3 {
+    font-weight: 700;
+    font-family: cursive;
+    letter-spacing: 2px;
+    padding: 0.5rem 0;
+  }
+  
+  .ft-1 span {
+    color: #FF914D;
+  }
+  
+  .ft-1 p {
+    padding: 0rem 5rem 0.8rem 0;
+    font-weight: 500;
+  }
+  
+  .footer-icons i {
+    padding: 0.4rem 0.5rem;
+    background: #e1e1e1;
+    color: #FF914D;
+    margin: 0 0.5rem;
+    border-radius: 50%;
+  }
+  
+  .footer-icons i:hover {
+    background: #FF914D;
+    color: #fff;
+    transition: 0.6s;
+    cursor: pointer;
+  }
+
+
+  
+  .Footer h5 {
+    color: #FF914D;
+  }
+  
+  .ft-2 ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .ft-2 ul li {
+    padding: 0.35rem 0;
+    font-weight: 500;
+  }
+  
+  .ft-2 ul a {
+    text-decoration: none;
+    color: #000;
+    font-size: 1.06rem;
+  }
+  
+  .ft-3 p {
+    font-weight: 500;
+    padding: 0.1rem 0;
+    font-size: 1.06rem;
+  }
+  
+  .ft-3 i {
+    padding-right: 0.5rem;
+  }
+  
+  .Last-footer {
+    background: #FF914D;
+    text-align: center;
+    padding: 1rem 0;
+  }
+  
+  .Last-footer p {
+    margin-bottom: 0;
+    font-size: 1.2rem;
+    font-weight: 700;
+  }
+
+  /* image gallery */
+
+   /* Navbars.css */
+   .animated-link {
+    transition: transform 0.3s ease; /* Add transition effect to transform property */
+    
+  }
+  
+  .animated-link:hover {
+  
+    transform: translateY(-3px); /* Move the link 3px up on hover */
+  }
+
+ /* ImageGallery.css */
+.image-gallery-container {
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+
+.image-item {
+  cursor: pointer;
+  margin-bottom: 20px; 
+}
+
+.gallery-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; 
+}
+
+
+.Footer {
+  background-color: #fff4ed;  
+ 
+  padding: 50px 0; /* Padding for top and bottom */
+}
