@@ -64,7 +64,7 @@ To get started with Hunger Free locally, follow these steps:
 
 ### Our Final Deployments
 
-- Website: [Soon Updated]
+- Website: [https://hungerfree.vercel.app/]
 - WebApp: [Soon Updated]
 - Repo link for WebApp: [https://github.com/codewithbalaji/hunger-free-web]
 
