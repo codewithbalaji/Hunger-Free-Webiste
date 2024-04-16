@@ -3,6 +3,7 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import img2 from '../assets/needy.jpg';
 import img3 from '../assets/vol.jpg';
+import img1 from '../assets/grandpa.jpg';
 
 function WhatWeDo() {
   return (
@@ -18,13 +19,13 @@ function WhatWeDo() {
         <Container>
         <Row>
         <Col xs={6}>
-          <img src={img3} alt="Your Image" className="img-fluid" />
+          <img src={img1} alt="Your Image" className="img-fluid" />
         </Col>
         <Col xs={6}>
           <h2 style={{ color: '#FF914D' }}>1. Contributors</h2>
           <br />
           <p style={{ fontSize:'18px'}}>
-          At Hunger Free, we're on a mission to turn surplus food into hope for those in need, and you can be a crucial part of this effort. As a contributor, you have the power to make a real impact in your community by sharing details about surplus food availability on our platform. Whether you're an individual, a business, or an event organizer, your contribution matters. By joining us, you'll not only reduce food waste but also directly address food insecurity in your community. Signing up is easy, and with just a few clicks, you can start making a difference. Together, let's create a world where no one goes hungry. Join us as a contributor today and become a Hunger Hero.
+          At Hunger Free, we&aposre on a mission to turn surplus food into hope for those in need, and you can be a crucial part of this effort. As a contributor, you have the power to make a real impact in your community by sharing details about surplus food availability on our platform. Whether you&aposre an individual, a business, or an event organizer, your contribution matters. By joining us, you&aposll not only reduce food waste but also directly address food insecurity in your community. Signing up is easy, and with just a few clicks, you can start making a difference. Together, let&aposs create a world where no one goes hungry. Join us as a contributor today and become a Hunger Hero.
           </p>
         </Col>
       </Row>
