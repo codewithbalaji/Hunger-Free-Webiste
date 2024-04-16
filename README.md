@@ -9,18 +9,18 @@ Here is a preview of our web-view for our amazing platform!
 ## Screenshots
 
 - **Homepage**
-  ![Homepage](screenshots/homepage.png)
-  ![Homepage](screenshots/homepage2.png)
-  ![Homepage](screenshots/homepage3.png)
-  ![Homepage](screenshots/homepage4.png)
-  ![Homepage](screenshots/homepage5.png)
+  ![Homepage](screenshots/homepage.jpg)
+  ![Homepage](screenshots/homepage2.jpg)
+  ![Homepage](screenshots/homepage3.jpg)
+  ![Homepage](screenshots/homepage4.jpg)
+  ![Homepage](screenshots/homepage5.jpg)
 - **Footer Page**
   ![Footer Page](screenshots/footer.jpg)
 - **About Us Page**
   ![About Us Page](screenshots/about.jpg)
 - **User Review**
   ![User Review](screenshots/userreviews.jpg)
-  - **Contact Us Page**
+- **Contact Us Page**
   ![Contact Us Page](screenshots/contact.jpg)
 
 
@@ -46,16 +46,13 @@ To get started with Hunger Free locally, follow these steps:
    npm install
    ```
 
-3. **Configure environment variables**:
-   - Rename `.env.example` to `.env`
-   - Fill in the required environment variables
 
-4. **Start the server**:
+3. **Start the server**:
    ```bash
    npm start
    ```
 
-5. **Access the website** at [http://localhost:3000](http://localhost:3000) in your web browser.
+4. **Access the website** at [http://localhost:5173/](http://localhost:5173/) in your web browser.
 
 ### Our Team
 
@@ -67,15 +64,15 @@ To get started with Hunger Free locally, follow these steps:
 
 ### Our Final Deployments
 
-- Website: [Add URL here]
-- WebApp: [Add URL here]
-- Repo link for WebApp: [Add URL here]
+- Website: [Soon Updated]
+- WebApp: [Soon Updated]
+- Repo link for WebApp: [https://github.com/codewithbalaji/hunger-free-web]
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute to Hunger Free, please check out our [contribution guidelines](CONTRIBUTING.md).
+We welcome contributions from the community! If you'd like to contribute to Hunger Free.
 
 ## Support
 
-For any questions or issues, please reach out to us at support@hungerfree.com.
+For any questions or issues, please reach out to us at balaji01975@gmail.com.
 
