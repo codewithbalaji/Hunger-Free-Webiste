@@ -13,7 +13,7 @@ function Navbars() {
           <Nav>
             <Nav.Link className='text-light animated-link' href="/"><b>Home</b></Nav.Link>
             <Nav.Link className='text-light animated-link' href="/about"><b>About Us</b></Nav.Link>
-            <Nav.Link className='text-light animated-link' href="/"><b>Our App</b></Nav.Link>
+            <Nav.Link className='text-light animated-link' href="https://hungerfree-app.vercel.app/"><b>Our App</b></Nav.Link>
             <Nav.Link className='text-light animated-link' href="/reviews"><b>Reviews</b></Nav.Link>
             <Nav.Link className='text-light animated-link' href="/contact"><b>Contact us</b></Nav.Link>
           </Nav>
