@@ -9,26 +9,26 @@ function Carousels() {
       <Carousel data-bs-theme="dark">
         <Carousel.Item>
           <img
-            className="d-block w-100"
+            className="d-block w-100 carousel-image"
             src={img1}
             alt="First slide"
-            height={500}
+            height={750}
           />
         </Carousel.Item>
         <Carousel.Item>
           <img
-            className="d-block w-100"
+            className="d-block w-100 carousel-image"
             src={img2}
             alt="Second slide"
-            height={500}
+            height={750}
           />
         </Carousel.Item>
         <Carousel.Item>
           <img
-            className="d-block w-100"
+            className="d-block w-100 carousel-image"
             src={img3}
             alt="Third slide"
-            height={500}
+            height={750}
           />
         </Carousel.Item>
       </Carousel>
