@@ -12,7 +12,7 @@ function Carousels() {
             className="d-block w-100 carousel-image"
             src={img1}
             alt="First slide"
-            height={750}
+            height={450}
           />
         </Carousel.Item>
         <Carousel.Item>
@@ -20,7 +20,7 @@ function Carousels() {
             className="d-block w-100 carousel-image"
             src={img2}
             alt="Second slide"
-            height={750}
+            height={450}
           />
         </Carousel.Item>
         <Carousel.Item>
@@ -28,7 +28,7 @@ function Carousels() {
             className="d-block w-100 carousel-image"
             src={img3}
             alt="Third slide"
-            height={750}
+            height={450}
           />
         </Carousel.Item>
       </Carousel>
