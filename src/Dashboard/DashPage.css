@@ -1,0 +1,9 @@
+.card-img-top.rounded-circle {
+    border-radius: 50%;
+    width: 150px; /* Adjust the width as needed */
+    height: 150px; /* Adjust the height as needed */
+    object-fit: cover; /* Ensure the image covers the circle */
+    margin-top: 10px;
+    margin-left: 5px;
+  }
+  
