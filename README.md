@@ -54,13 +54,6 @@ To get started with Hunger Free locally, follow these steps:
 
 4. **Access the website** at [http://localhost:5173/](http://localhost:5173/) in your web browser.
 
-### Our Team
-
-- Balaji D
-- Deepan B
-- Karthikeyan G
-- Prem Kumar Ruban T
-- Monesh U
 
 ### Our Final Deployments
 
