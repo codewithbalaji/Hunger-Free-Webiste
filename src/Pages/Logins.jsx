@@ -18,7 +18,7 @@ function LoginPage() {
       const user = userCredential.user;
 
       // Check if the user UID matches the allowed UID
-      if (user.uid === "oYEiLaCM4XgqbQcJT783vcwuFCr2") {
+      if (user.uid === "t7IYWXKyAhcDqMaSMAmE4ormpWX2") {
         toast.success("User logged in Successfully", { position: "top-center" });
         navigate("/dashboard");
       } else {
